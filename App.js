@@ -9,8 +9,7 @@ export default class App extends Component {
     this.state = {
       text: "",
       vowels: 0,
-      consonant: 0,
-      calculate: 0
+      consonant: 0
     }
   }
 
